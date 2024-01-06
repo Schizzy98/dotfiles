@@ -1,0 +1,16 @@
+[desktop-monitor-0]
+nemo-icon-view-keep-aligned=true
+nemo-icon-view-auto-layout=true
+nemo-icon-view-layout-timestamp=1704080233
+
+[home]
+nemo-icon-position-timestamp=1704080234
+nemo-icon-position=91,127
+monitor=0
+icon-scale=1
+
+[computer]
+nemo-icon-position-timestamp=1704080234
+nemo-icon-position=91,27
+monitor=0
+icon-scale=1
